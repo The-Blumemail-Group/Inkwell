@@ -1,4 +1,3 @@
-'use client'
 /**
  * This config is used to set up Sanity Studio that's mounted on the `/pages/studio/[[...index]].tsx` route
  */
@@ -22,7 +21,7 @@ import postType from 'schemas/post'
 import settingsType from 'schemas/settings'
 
 const title =
-  process.env.NEXT_PUBLIC_SANITY_PROJECT_TITLE || 'Next.js Blog with Sanity.io'
+  process.env.NEXT_PUBLIC_SANITY_PROJECT_TITLE || 'Blumemail Blog'
 
 export default defineConfig({
   basePath: '/studio',
