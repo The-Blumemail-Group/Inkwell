@@ -1,6 +1,6 @@
 {
-  "name": "Next.js",
-  "short_name": "Next.js",
+  "name": "SparkMask Blog",
+  "short_name": "SparkBlog",
   "icons": [
     {
       "src": "/favicon/android-chrome-192x192.png",

@@ -22,7 +22,7 @@ import postType from 'schemas/post'
 import settingsType from 'schemas/settings'
 
 const title =
-  process.env.NEXT_PUBLIC_SANITY_PROJECT_TITLE || 'Blumemail Blog'
+  process.env.NEXT_PUBLIC_SANITY_PROJECT_TITLE || 'SparkMask Blog'
 
 export default defineConfig({
   basePath: '/studio',
